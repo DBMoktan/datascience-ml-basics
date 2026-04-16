@@ -6,18 +6,6 @@ manipulation, and Matplotlib for data visualization.
 
 ---
 
-## Repository Structure
-
-```
-
-├── numpy_basics.ipynb
-├── dataframe_intro.ipynb
-├── dataframe_operations.ipynb
-└── matplotlib_visuals.ipynb
-
-
----
-
 ## Notebooks Overview
 
 ### 1. NumPy — `numpy_basics.ipynb`
